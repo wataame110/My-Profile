@@ -79,7 +79,7 @@ a:visited {
   color: #008000;
   text-decoration: none;
 }
-a:hover {
+/*a:hover {
   color: #ff0000;
   text-decoration: underline;
   font-size: 40px;
@@ -87,7 +87,7 @@ a:hover {
 }
 a:active {
   color: #ff8000;
-  text-decoration: underline;
+  text-decoration: underline;*/
 }
 
 /* 次週はCSS3で出てきたプロパティを少し勉強します。そしてこのファイルを自分なりにカスタムして提出してもらう予定 */
